@@ -1,2 +1,4 @@
-aaa\nbbb\n
+aaa
+bbb
 你好吗？
+ccc
