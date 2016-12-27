@@ -4,3 +4,4 @@
 balabala
 Creating a new branch is quick
 @clark.hsu
+冲突测试
