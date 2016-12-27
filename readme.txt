@@ -4,4 +4,4 @@
 balabala
 Creating a new branch is quick
 @Clark.Hsu
-冲突测试
+冲突测试test --no-ff
